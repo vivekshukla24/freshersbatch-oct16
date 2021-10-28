@@ -1,3 +1,3 @@
 function msg(){
- alert("Hello Javatpoint");
-}  
+ alert("Hello Javatpoint changes");
+}
